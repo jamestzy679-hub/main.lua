@@ -1,5 +1,5 @@
 # main.lua
-local base = "https://pastebin.com/raw/Zb8bv0Es"
+local base = "https://raw.githubusercontent.com/jamestzy679-hub/main.lua/refs/heads/main/main.lua"
 
 local function loadModule(name)
     local src = game:HttpGet(base .. name .. ".lua")
